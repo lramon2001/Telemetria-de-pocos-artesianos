@@ -1,5 +1,5 @@
 # Telemetria-de-pocos-artesianos
-Telemetria-de-pocos-artesianos 📐-Repositorio criado para desenvolvimento de códigos que realizem a medição do nível de água de poços artesianos 
+Telemetria-de-pocos-artesianos 📐-Repositório criado para desenvolvimento de códigos que realizem a medição do nível de água de poços artesianos 
 
 ## DIA 1
 - Buscamos os equipamentos na casa do João;
