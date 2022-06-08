@@ -11,7 +11,7 @@ O objetivo dessas duas primeiras semanas é este : Mapear o nivel de um reservat
 
 ## DIA 2 (08/06)
 - O João apresentou em uma reunião online a eletrônica base do projeto e conseguimos compreender suas ideias;
--- João testou o peso elétrico, estudou como configurá-lo e está próximo a tirar boas conclusões;
+- João testou o peso elétrico, estudou como configurá-lo e está próximo a tirar boas conclusões;
 - Felipe e Lucas fizeram um diagrama utilizando o microcontrolador ESP32;
 - Utilizamos um potenciômetro para simular o sinal do peso elétrico;
 - Iniciamos o código do projeto e vamos testá-lo utilizando Wokiwi simulator;
