@@ -16,5 +16,6 @@ O objetivo dessas duas primeiras semanas é este : Mapear o nivel de um reservat
 - Utilizamos um potenciômetro para simular o sinal do peso elétrico;
 - Iniciamos o código do projeto e vamos testá-lo utilizando Wokiwi simulator;
 
+Diagrama feito :
 
-
+![imagem](https://github.com/lramon2001/Telemetria-de-pocos-artesianos/blob/main/diagrama.png)
