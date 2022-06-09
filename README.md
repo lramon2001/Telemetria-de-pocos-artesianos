@@ -19,3 +19,10 @@ O objetivo dessas duas primeiras semanas é este : Mapear o nivel de um reservat
 Diagrama feito :
 
 ![imagem](https://github.com/lramon2001/Telemetria-de-pocos-artesianos/blob/main/diagrama.png)
+
+## DIA 3
+- Conseguimos simular o pulso analógico do peso elétrico;
+- Iniciamos um protótipo da estrutura de dados que armazenará os dados;
+- Estamos testando a viabilidade de algumas estruturas e entendendo como funciona o firebase;
+- Iniciamos a simulação do pulso da bomba;
+
